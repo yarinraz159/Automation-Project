@@ -2,7 +2,7 @@
 
 # Test Automation Framework
 
-This is an automation framework built using Java for performing tests on the MyTinyTodo web application.
+This is an automation framework built using Java and Selenium WebDriver for performing tests on the MyTinyTodo web application.
 
 ## Framework Structure
 
