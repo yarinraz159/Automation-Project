@@ -29,4 +29,4 @@ Run the desired test class by executing its main method. This will launch the Ch
 
 After the tests are executed, the browser will close automatically.
 
-Note: The framework assumes that the MyTinyTodo web application is accessible at the URL "https://www.mytinytodo.net/demo/". Make sure the application is running and accessible before running the tests.
+**Note:** The framework assumes that the MyTinyTodo web application is accessible at the URL "https://www.mytinytodo.net/demo/". Make sure the application is running and accessible before running the tests.
