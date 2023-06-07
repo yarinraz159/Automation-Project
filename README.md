@@ -30,4 +30,6 @@ To run the tests using this framework, follow these steps:
 
 **> Note:** The framework assumes that the MyTinyTodo web application is accessible at the URL "https://www.mytinytodo.net/demo/". Make sure the application is running and accessible before running the tests.
 
+Make sure to update the ChromeDriver path according to your system configuration.
+
 Feel free to explore the provided test classes and page objects to understand how the framework works and extend it further based on your specific requirements.
