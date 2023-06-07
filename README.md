@@ -1,6 +1,6 @@
 # myTinyTodo-Test-automation
 
-# Automation Framework
+# Test Automation Framework
 
 This is an automation framework built using Java for performing tests on the MyTinyTodo web application.
 
