@@ -1,10 +1,11 @@
 # myTinyTodo-Test-automation
 
-Automation Framework using Java
+**Automation Framework using Java**
 
 This is an automation framework built using Java for performing tests on the MyTinyTodo web application.
 
-Framework Structure
+**Framework Structure**
+
 The framework is structured using the Page Object Model (POM) design pattern. It consists of the following key components:
 
 pageObject package: Contains classes representing different pages of the web application. Each page class encapsulates the web elements and actions related to that page.
@@ -15,7 +16,9 @@ BasePage class: A base class that provides common methods and utilities for inte
 
 BaseTest class: A base test class that sets up the WebDriver, manages the browser instance, and performs common setup and teardown operations for test classes.
 
-How to Run the Tests
+
+**How to Run the Tests**
+
 To run the tests using this framework, follow these steps:
 
 Set up the required WebDriver. In this framework, the ChromeDriver is used. Ensure that the ChromeDriver executable is available and the system property is set accordingly.
